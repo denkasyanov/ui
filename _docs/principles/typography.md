@@ -16,7 +16,7 @@ The system fonts are used for the IDE user interface by default. The default fon
     <td> 13 </td>
   </tr>
   <tr class="table-line">
-    <td> <strong>Window</strong> </td>
+    <td> <strong>Windows</strong> </td>
     <td> Segoe UI </td>
     <td> 12 </td>
   </tr>
